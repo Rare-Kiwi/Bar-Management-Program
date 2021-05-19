@@ -1,12 +1,12 @@
 # Bar-Management-Program
 Final assignment Program/HTML/CSS/JAVA/MYSQL
 ## Initialization
-###Lanaguage:
+### Lanaguage:
    * JAVA 
    * HTML5
    * CSS3 
    * MySQL 
-###Tools:
+### Tools:
    * VScode 
    * Tomcat
    * Maven 
