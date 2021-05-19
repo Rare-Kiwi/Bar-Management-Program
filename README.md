@@ -19,14 +19,14 @@ FinalAssignmentProgram/HTML/CSS/JAVA/MYSQL
     + reciept  
 + servers:
     + profit
-    + 翻台率
+    + seat occupancy rate
     + inventory
     + faclities
    
 ## Preparation：  
 + Database designation：  
     + Logical structure：
-        > customers({Cid:顾客编号}，{Cname:顾客名称)
+        
     + EUgraph :
     + Model :
     + create code:
