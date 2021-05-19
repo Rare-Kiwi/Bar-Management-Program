@@ -2,13 +2,13 @@
 Final assignment Program/HTML/CSS/JAVA/MYSQL
 # Initialization
 Lanaguage:
-  *JAVA 
-  *HTML5 
-  *CSS3 
-  *MySQL 
+   JAVA <br>
+   HTML5 <br>
+   CSS3 <br>
+   MySQL <br>
 Faculities:
-  *VScode
-  *Tomcat
-  *Maven 
-  *Spring Boot
+   VScode <br>
+   Tomcat<br>
+   Maven <br>
+   Spring Boot<br>
 # Procedure
