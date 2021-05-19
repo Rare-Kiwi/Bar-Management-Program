@@ -5,7 +5,7 @@ Final assignment Program/HTML/CSS/JAVA/MYSQL
    * JAVA 
    * HTML5
    * CSS3 
-   * MySQL 
+   * SQL 
 ### Tools:
    * VScode 
    * Tomcat
