@@ -1,5 +1,5 @@
 # Bar-Management-Program
-Final assignment Program/HTML/CSS/JAVA/MYSQL
+FinalAssignmentProgram/HTML/CSS/JAVA/MYSQL
 ## Initialization
 ### Lanaguage:
    * JAVA 
@@ -7,8 +7,26 @@ Final assignment Program/HTML/CSS/JAVA/MYSQL
    * CSS3 
    * SQL 
 ### Tools:
-   * VScode 
+   * VScode
+   * MySQL 
    * Tomcat
    * Maven 
    * Spring Boot
-## Procedure
+## Demands:  
++ consumers:  
+    + reservation
+    + order
+    + reciept  
++ servers:
+    + profit
+    + 翻台率
+    + inventory
+    + faclities
+   
+## Preparation：  
++ Database designation：  
+    + Logical structure：
+        > customers({Cid:顾客编号}，{Cname:顾客名称)
+    + EUgraph :
+    + Model :
+    + create code:
