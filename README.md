@@ -14,7 +14,7 @@ FinalAssignmentProgram/HTML/CSS/JAVA/MYSQL
    * Spring Boot
 ## Demands:  
 + consumers:  
-    + reservation
+    + reservation:consmers could book seats online advancely and provide name,num
     + order
     + reciept  
 + servers:
