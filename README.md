@@ -15,7 +15,7 @@ FinalAssignmentProgram/HTML/CSS/JAVA/MYSQL
 ## Demands:  
 + consumers:  
     + reservation:<br>
-    consmers could book seats online advancely and provide name,num
+    consmers could book seats online advancely.They need to provide phone number as checking,
     + order
     + reciept  
 + servers:
