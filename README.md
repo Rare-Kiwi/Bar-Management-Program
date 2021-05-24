@@ -34,8 +34,6 @@ FinalAssignmentProgram/HTML/CSS/JAVA/MYSQL
    
 ## Preparation：  
 + Database designation：  
-    + Logical structure：
-        
     + EUgraph :
     + Model :
     + create code:
