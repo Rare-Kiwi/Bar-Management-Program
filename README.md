@@ -35,5 +35,6 @@ FinalAssignmentProgram/HTML/CSS/JAVA/MYSQL
 ## Preparation：  
 + Database designation：  
     + EUgraph :
+    - ![EU of consumers](
     + Model :
     + create code:
