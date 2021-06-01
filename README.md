@@ -35,6 +35,6 @@ FinalAssignmentProgram/HTML/CSS/JAVA/MYSQL
 ## Preparation：  
 + Database designation：  
     + EUgraph :
-    - ![EU of consumers](
+    - ![EU of consumers]("../graphs/consumers.jpg")
     + Model :
     + create code:
