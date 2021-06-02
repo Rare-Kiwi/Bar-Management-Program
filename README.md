@@ -26,15 +26,16 @@ FinalAssignmentProgram/HTML/CSS/JAVA/MYSQL
     + seat occupancy rate:<br>
     show the rest num of seats timely in every area; the total occupied seats; 
     + inventory:<br>
-    the dasic infomation about wines and the num of them;
+    the basic infomation about wines and the num of them;
     + faclities:<br>
-    the dasic infomation about facilities and condition;
+    the basic infomation about facilities and condition;
     + faculty manangement:<br>
     bartenders , waiters and some of waiter are managers:id;name,birth,hire,tel-number;serve area;pay;
    
 ## Preparation：  
 + Database designation：  
     + EUgraph :
-      - ![EU of consumers]("graphs\consumers.JPG")
+      - ![EU of consumers]("graphs\consumers.JPG");
+      - ![EU of services]("picture.svg");
     + Model :
     + create code:
