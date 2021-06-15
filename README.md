@@ -35,7 +35,9 @@ FinalAssignmentProgram/HTML/CSS/JAVA/MYSQL
 ## Preparation：  
 + Database designation：  
     + EUgraph :
-      - ![EU of consumers](graphs/consumers.JPG);
-      - ![EU of services](graphs/service.JPG);
+      - ![EU of consumers](graphs/consumers.JPG)
+      - ![EU of services](graphs/service.JPG)
     + Model :
-    + create code:
+      - ![model1](graphs/model1.JPG)
+      - ![model2](graphs/model2.JPG)
+      - ![model3](graphs/model3.JPG)
